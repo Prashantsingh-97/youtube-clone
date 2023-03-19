@@ -6,6 +6,14 @@ Code along project from react-tutorial.app by [JS Dev Hindi](https://www.youtube
 
 After visitng website through github pages please click on Youtube Logo to begin.
 
+# About Project
+
+This project is made using React18 and routes are managed by react-router-dom while styling has been done using TailwindCSS.
+
+Videos and other data is fetched using the help of [Rapid API](https://rapidapi.com/Glavier/api/youtube138/).
+
+For products it uses a custom fetch hook to fetch all the products from API provided by JAD.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
