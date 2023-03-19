@@ -1,3 +1,11 @@
+#Youtube Clone
+
+Get started by running npm i and then npm start.
+
+Code along project from react-tutorial.app by [JS Dev Hindi](https://www.youtube.com/@jsdevhindi) with some JS and functionalities.
+
+After visitng website through github pages please click on Youtube Logo to begin.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
